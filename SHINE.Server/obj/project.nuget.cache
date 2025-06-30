@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuMnRyFwuxc=",
+  "success": true,
+  "projectFilePath": "D:\\Cod Project\\Analok\\v2\\Analok\\Analok\\AnalokServer\\SHINE.Server\\SHINE.Server\\SHINE.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mamka Trap\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\Mamka Trap\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mamka Trap\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mamka Trap\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Mamka Trap\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Mamka Trap\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
