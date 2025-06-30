@@ -1,0 +1,10 @@
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\bin\Debug\netstandard2.1\SHINE.Core.deps.json
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\bin\Debug\netstandard2.1\SHINE.Core.dll
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\bin\Debug\netstandard2.1\SHINE.Core.pdb
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\obj\Debug\netstandard2.1\SHINE.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\obj\Debug\netstandard2.1\SHINE.Core.AssemblyInfoInputs.cache
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\obj\Debug\netstandard2.1\SHINE.Core.AssemblyInfo.cs
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\obj\Debug\netstandard2.1\SHINE.Core.csproj.CoreCompileInputs.cache
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\obj\Debug\netstandard2.1\SHINE.Core.dll
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\obj\Debug\netstandard2.1\SHINE.Core.pdb
+D:\Cod Project\Shine\SHINE\SHINE.Core\SHINE.Core\obj\Debug\netstandard2.1\SHINE.Core.sourcelink.json
